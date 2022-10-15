@@ -1,0 +1,2 @@
+# GomokuAI
+Team project
